@@ -21,4 +21,11 @@
 ## Passing the id as a parameter to delete the server from the database
 ![image](https://user-images.githubusercontent.com/108647962/177268077-d8862a6e-51cb-4f54-86de-5742cb18038a.png)
 
+## Before updating the data
+![image](https://user-images.githubusercontent.com/108647962/177268923-e0d17bf4-b385-4913-bfb7-191454964e65.png)
+
+## After updating the data
+![image](https://user-images.githubusercontent.com/108647962/177269074-bdeef0ec-314e-4345-9d1a-4e9104de93c5.png)
+![image](https://user-images.githubusercontent.com/108647962/177269152-e4144d2c-d84d-4bc6-a6f9-30abc3ce4abf.png)
+
 
