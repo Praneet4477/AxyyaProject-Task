@@ -17,5 +17,5 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag praneet4477/docker-spring-boot-API:latest
     - name: Push the Docker image
-      run: docker login -u praneet4477 -p ${{secrets.DOCKER_TOCKEN}} && docker push praneet4477/docker-spring-boot-API:latest
+      run: docker login -u praneet4477 -p ${{secrets.DOCKER_TOCKEN}} && docker push praneet4477/docker-spring-boot-image:latest
     
